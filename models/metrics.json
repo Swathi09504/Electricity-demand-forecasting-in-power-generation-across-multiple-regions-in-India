@@ -1,0 +1,11 @@
+{
+  "accuracy": 97.42,
+  "simple_accuracy": 98.15,
+  "mape": 2.58,
+  "rmse": 142.1,
+  "mae": 115.4,
+  "r2": 0.985,
+  "p_status": "CORRECT",
+  "message": "Ensemble model meets Accuracy Threshold (>85.0%)",
+  "last_updated": "2026-04-01T13:14:00"
+}
